@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kholilapras&layout=compact&langs_count=8&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kholilapras&layout=compact&langs_count=8&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
+![GitHub Streak](https://streak-stats.demolab.com?user=kholilapras&theme=dark&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=kholilapras&color=blue)
+
+
 
 
 <!--
