@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-### 📊 Statistik Bahasa Pemrograman
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kholilapras&layout=compact&langs_count=8&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
 
 
 <!--
