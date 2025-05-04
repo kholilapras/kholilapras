@@ -6,8 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=kholilapras&color=blue)
 
-<img src="https://raw.githubusercontent.com/kholilapras/kholilapras/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
