@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kholilapras&layout=compact&langs_count=8&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=kholilapras&theme=dark&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=kholilapras&color=blue)
@@ -11,7 +9,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kholilapras/kholilapras/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kholilapras/kholilapras/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kholilapras/kholilapras/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
