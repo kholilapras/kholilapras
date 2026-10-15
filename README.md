@@ -20,13 +20,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kholilapras/kholilapras/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kholilapras/kholilapras/output/pacman-contribution-graph.svg">
 </picture>
-
-
-<!--
-**kholilapras/kholilapras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--->
