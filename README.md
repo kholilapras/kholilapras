@@ -20,4 +20,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kholilapras/kholilapras/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kholilapras/kholilapras/output/pacman-contribution-graph.svg">
 </picture>
-x
